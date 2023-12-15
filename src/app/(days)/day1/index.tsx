@@ -6,7 +6,7 @@ export default function DayDetailsScreen() {
   return (
     <View>
       <Stack.Screen options={{ title: "Day 1"}} />
-      <Text>Day Details Screen</Text>
+      <Text style={{ fontFamily: 'AmaticBold', fontSize: 100}}>Day Details Screen</Text>
     </View>
   )
 }
