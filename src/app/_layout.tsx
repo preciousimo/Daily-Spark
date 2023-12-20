@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { Stack } from "expo-router"
 import { useFonts, Inter_400Regular, Inter_700Bold, Inter_600SemiBold, Inter_900Black } from '@expo-google-fonts/inter';
 import { AmaticSC_400Regular, AmaticSC_700Bold } from '@expo-google-fonts/amatic-sc';
@@ -29,9 +29,11 @@ export default function RootLayout() {
         return null;
     }
     return (
-        <Stack screenOptions={{}}>
-            <Stack.Screen name="index" options={{ title: 'Mobile App Test' }} />
-        </Stack>
+        <GestureHandlerRootView style={{ flex: 1 }}>
+            <Stack screenOptions={{}}>
+                <Stack.Screen name="index" options={{ title: 'Mobile App Test' }} />
+            </Stack>
+        </GestureHandlerRootView>
     )
 }
 ``

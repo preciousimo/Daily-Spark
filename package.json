@@ -23,7 +23,9 @@
     "expo-linking": "~5.0.2",
     "expo-constants": "~14.4.2",
     "react-native-web": "~0.19.6",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-reanimated": "~3.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
