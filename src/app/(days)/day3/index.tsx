@@ -4,27 +4,28 @@ import { Button } from 'react-native'
 import { SafeAreaView } from "react-native-safe-area-context"
 
 const description = `
-# Onboarding
+# Markdown
 
-Build an Animated Onboarding Flow in **React Native**
+Render Markdown in in **React Native**
 
 📚 Today's Agenda:
-- Introduction to Onboarding Flows
-- Design Principles for Onboarding Screens
-- Exploring Reanimated Library
-- Building Your First Animated Onboarding Screen
-- Enhancing User Experience with Layout Animations
-- Wrap-Up and Demo
+- Introduction to Markdown
+- Markdown Syntax Overview
+- Setting Up React Native for Markdown
+- Implementing Markdown Rendering
+- Styling Markdown Content
+- Using Markdown in React Native Components
+- Recap and Q&A Session
 `
 
 export default function DayDetailsScreen() {
   return (
     <SafeAreaView edges={['bottom']} style={{flex: 1}}>
-      <Stack.Screen options={{ title: "Day 2: Onboarding" }} />
+      <Stack.Screen options={{ title: "Day 3: Markdown" }} />
       <MarkdownDisplay>{description}</MarkdownDisplay>
 
-      <Link href="/day2/onboarding" asChild>
-        <Button title="Go to onboarding" />
+      <Link href="/day3/editor" asChild>
+        <Button title="Go to editor" />
       </Link>
     </SafeAreaView>
   )
