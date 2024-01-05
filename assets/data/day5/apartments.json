@@ -30,16 +30,6 @@
         "image": "https://example.com/ikeja_apartment2.jpg"
     },
     {
-        "id": 4,
-        "latitude": 6.6031,
-        "longitude": 3.3598,
-        "price": 65000,
-        "title": "Charming Loft in Ikeja City Center",
-        "numberOfStars": 4.0,
-        "ratings": 15,
-        "image": "https://example.com/ikeja_apartment4.jpg"
-    },
-    {
         "id": 5,
         "latitude": 6.442818,
         "longitude": 3.381934,
@@ -60,16 +50,6 @@
         "image": "https://maps.google.com/?cid=4454532164636909333"
     },
     {
-        "id": 7,
-        "latitude": 6.5944,
-        "longitude": 3.3566,
-        "price": 38000,
-        "title": "Luxurious Penthouse near Ikeja GRA",
-        "numberOfStars": 4.8,
-        "ratings": 35,
-        "image": "https://example.com/ikeja_apartment3.jpg"
-    },
-    {
         "id": 8,
         "latitude": 6.434958,
         "longitude": 3.392518,
@@ -78,15 +58,5 @@
         "NumberOfStars": 4,
         "ratings": 0,
         "image": "https://maps.google.com/?cid=16561091624722271955"
-    },
-    {
-        "id": 9,
-        "latitude": 6.443129,
-        "longitude": 3.380990,
-        "price": 48000,
-        "title": "Royal Mansion Apartments",
-        "NumberOfStars": 4.9,
-        "ratings": 0,
-        "image": "http://www.royaltymansion.com/"
     }
 ]
