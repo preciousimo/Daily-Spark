@@ -5,7 +5,7 @@
         "longitude": 3.370703,
         "price": 80000,
         "title": "Crestville Apartments Lagos - Best Shortlet in Lagos Mainland",
-        "NumberOfStars": 4.5,
+        "numberOfStars": 4.5,
         "ratings": 0,
         "image": "https://picsum.photos/800/600?image=101"
     },
@@ -35,7 +35,7 @@
         "longitude": 3.381934,
         "price": 50000,
         "title": "Jarvis Court Shortlet Apartments",
-        "NumberOfStars": 5,
+        "numberOfStars": 5,
         "ratings": 0,
         "image": "https://picsum.photos/800/600?image=404"
     },
@@ -45,7 +45,7 @@
         "longitude": 3.389212,
         "price": 45000,
         "title": "Furnished Quarters Serviced Apartments",
-        "NumberOfStars": 4.2,
+        "numberOfStars": 4.2,
         "ratings": 0,
         "image": "https://picsum.photos/800/600?image=505"
     },

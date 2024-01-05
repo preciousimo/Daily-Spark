@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Stack } from 'expo-router';
 import apartments from '@assets/data/day5/apartments.json'
 import CustomMarker from '@/components/core/day5/CustomMarker';
+import ApartmentListItem from '@/components/core/day5/ApartmentListItem';
 
 export default function AirbnbScreen() {
     // Calculate the average latitude and longitude for initial region
@@ -25,6 +26,9 @@ export default function AirbnbScreen() {
             >
                 {apartments.map((apartment) => <CustomMarker key={apartment.id} apartment={apartment}/>)}
             </MapView>
+
+            {/* Display selected apartment */}
+            <ApartmentListItem apartment={apartments[1]}/>
         </View>
     );
 }
