@@ -7,7 +7,7 @@
         "title": "Crestville Apartments Lagos - Best Shortlet in Lagos Mainland",
         "NumberOfStars": 4.5,
         "ratings": 0,
-        "image": "https://maps.google.com/?cid=1664834607378138762"
+        "image": "https://picsum.photos/800/600?image=101"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "title": "Modern Apartment with City View",
         "numberOfStars": 4.5,
         "ratings": 28,
-        "image": "https://example.com/ikeja_apartment1.jpg"
+        "image": "https://picsum.photos/800/600?image=202"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "title": "Cozy Studio in Central Ikeja",
         "numberOfStars": 4.2,
         "ratings": 19,
-        "image": "https://example.com/ikeja_apartment2.jpg"
+        "image": "https://picsum.photos/800/600?image=303"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "title": "Jarvis Court Shortlet Apartments",
         "NumberOfStars": 5,
         "ratings": 0,
-        "image": "https://www.instagram.com/jarviscourt/"
+        "image": "https://picsum.photos/800/600?image=404"
     },
     {
         "id": 6,
@@ -47,7 +47,7 @@
         "title": "Furnished Quarters Serviced Apartments",
         "NumberOfStars": 4.2,
         "ratings": 0,
-        "image": "https://maps.google.com/?cid=4454532164636909333"
+        "image": "https://picsum.photos/800/600?image=505"
     },
     {
         "id": 8,
@@ -57,6 +57,6 @@
         "title": "Millennium Apartments and Studios",
         "NumberOfStars": 4,
         "ratings": 0,
-        "image": "https://maps.google.com/?cid=16561091624722271955"
+        "image": "https://picsum.photos/800/600?image=606"
     }
 ]
