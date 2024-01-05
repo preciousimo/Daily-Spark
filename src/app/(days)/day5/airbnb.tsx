@@ -16,7 +16,16 @@ export default function AirbnbScreen() {
             longitudeDelta: 0.0421,
           }}
       >
-        <Marker coordinate={{latitude: 37.78825, longitude: -122.4324,}}/>
+        <Marker
+            coordinate={{latitude: 37.78825, longitude: -122.4324,}}
+            title='2bd Apartment'
+            description='Hello!'
+        />
+        <Marker
+            coordinate={{latitude: 37.78824, longitude: -122.4323,}}
+            title='1bd Apartment'
+            description='Hello there!'
+        />
       </MapView>
     </View>
   );
