@@ -29,9 +29,6 @@ export default function DayDetailsScreen() {
         <Button title="Go to AIRBNB Map" />
       </Link>
 
-      <Link href="/day4/splash" asChild>
-        <Button title="Splash screen animation" />
-      </Link>
     </SafeAreaView>
   )
 }
