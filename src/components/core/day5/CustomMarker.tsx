@@ -2,9 +2,10 @@ import { View, Text } from 'react-native'
 import React from 'react'
 import { Marker } from 'react-native-maps'
 
-export default function CustomMarker({apartment}) {
+export default function CustomMarker({apartment, onPress}) {
   return (
     <Marker
+    onPress={onPress}
     key={apartment.id.toString()}
     coordinate={{ latitude: apartment.latitude, longitude: apartment.longitude, }}
     title={apartment.title}
@@ -12,7 +13,7 @@ export default function CustomMarker({apartment}) {
 >
     <View 
         style={{
-            backgroundColor: 'wwhite',
+            backgroundColor: 'white',
             padding: 5,
             paddingHorizontal: 10,
             borderWidth: 1,

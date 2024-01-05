@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
     title: {
         fontFamily: 'InterBold',
         marginBottom: 10,
+        fontSize: 16,
     },
     description: {
         color: 'gray',
