@@ -4,8 +4,8 @@
         "latitude": 6.462621,
         "longitude": 3.370703,
         "price": 80000,
-        "title": "Crestville Apartments Lagos - Best Shortlet in Lagos Mainland",
-        "numberOfStars": 4.5,
+        "title": "Crestville Apartments Lagos",
+        "numberOfStars": 3.8,
         "ratings": 0,
         "image": "https://picsum.photos/800/600?image=101"
     },
@@ -16,8 +16,8 @@
         "price": 55000,
         "title": "Modern Apartment with City View",
         "numberOfStars": 4.5,
-        "ratings": 28,
-        "image": "https://picsum.photos/800/600?image=202"
+        "ratings": 0,
+        "image": "https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg?fit=2500%2C1666"
     },
     {
         "id": 3,
@@ -26,8 +26,8 @@
         "price": 70000,
         "title": "Cozy Studio in Central Ikeja",
         "numberOfStars": 4.2,
-        "ratings": 19,
-        "image": "https://picsum.photos/800/600?image=303"
+        "ratings": 0,
+        "image": "https://media.cntraveler.com/photos/5d112d50c4d7bd806dbc00a4/16:9/w_2560%2Cc_limit/airbnb%2520luxe.jpg"
     },
     {
         "id": 5,
@@ -35,9 +35,9 @@
         "longitude": 3.381934,
         "price": 50000,
         "title": "Jarvis Court Shortlet Apartments",
-        "numberOfStars": 5,
+        "numberOfStars": 5.0,
         "ratings": 0,
-        "image": "https://picsum.photos/800/600?image=404"
+        "image": "https://a0.muscache.com/pictures/27c09c24-e29d-4cd9-8c28-edfa84868da4.jpg"
     },
     {
         "id": 6,
@@ -47,7 +47,7 @@
         "title": "Furnished Quarters Serviced Apartments",
         "numberOfStars": 4.2,
         "ratings": 0,
-        "image": "https://picsum.photos/800/600?image=505"
+        "image": "https://a0.muscache.com/im/pictures/b61ba60e-7b9e-48b5-9036-aacc2579a39d.jpg"
     },
     {
         "id": 8,
@@ -55,8 +55,8 @@
         "longitude": 3.392518,
         "price": 60000,
         "title": "Millennium Apartments and Studios",
-        "NumberOfStars": 4,
+        "NumberOfStars": 4.0,
         "ratings": 0,
-        "image": "https://picsum.photos/800/600?image=606"
+        "image": "https://pyxis.nymag.com/v1/imgs/5f1/db3/bce7fbac042b55a47b4d4260428262c17d-23-private-swimming-hole-cornwall-ct.rsquare.w600.jpg"
     }
 ]
